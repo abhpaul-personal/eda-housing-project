@@ -1,7 +1,7 @@
 [![Shipping files](https://github.com/neuefische/ds-eda-project-template/actions/workflows/workflow-03.yml/badge.svg?branch=main&event=workflow_dispatch)](https://github.com/neuefische/ds-eda-project-template/actions/workflows/workflow-03.yml)
-# ds-project-template
+# King COunty Housing Data - EDA
 
-Template for creating ds simple projects
+Exploratory Data Analysis
 
 ## Requirements
 
