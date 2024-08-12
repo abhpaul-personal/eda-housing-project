@@ -1,5 +1,5 @@
 [![Shipping files](https://github.com/neuefische/ds-eda-project-template/actions/workflows/workflow-03.yml/badge.svg?branch=main&event=workflow_dispatch)](https://github.com/neuefische/ds-eda-project-template/actions/workflows/workflow-03.yml)
-# King COunty Housing Data - EDA
+# King County Housing Data - EDA
 
 Exploratory Data Analysis
 
